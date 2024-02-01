@@ -1,3 +1,3 @@
-# Este é um projeto do curso GIT e GitHub do professor Acené lio
+# Este é um projeto do curso GIT e GitHub do professor Acenélio
 
 Abraços
